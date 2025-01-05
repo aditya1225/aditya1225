@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 
+
+
+##🚀 About Me
+I am a former Senior Data Scientist, Research Engineer, and Technical Blogger with a zeal for crafting AI products that drive progress. My expertise lies in machine learning, python, algorithms, artificial intelligence, and AI/ML deployment technologies. Equipped with the ability to deliver end-to-end AI solutions, I also drive research in the fields of natural language processing, computer vision, and psychology utilizing statistics and supervised machine learning methods.
