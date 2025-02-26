@@ -4,7 +4,7 @@
 🎓 Masters in Computer Science @Northeastern University Boston  
 💻 Passionate about Java and Full Stack Development  
 
-I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in automation testing. My technical expertise includes programming in Java, SQL, and using frameworks such as TestNG, Selenium WebDriver, RestAssured, and Spring Boot. Equipped with tremendous technical knowledge and a zeal to deliver high-quality, scalable solutions, I am confident in my ability to contribute to any organization.
+I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in Software Engineering. My technical expertise includes programming in Java, SQL, and using frameworks such as TestNG, Selenium WebDriver, RestAssured, and Spring Boot. Equipped with tremendous technical knowledge and a zeal to deliver high-quality, scalable solutions, I am confident in my ability to contribute to any organization.
 
 ---
 
