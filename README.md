@@ -2,16 +2,16 @@
 
 ### About Me:
 🎓 Masters in Computer Science @Northeastern University Boston  
-💻 Passionate about Java and Full Stack Development  
+💻 Passionate about Java and Back End Development  
 
-I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in Software Engineering. My technical expertise includes programming in Java, SQL, and using frameworks such as TestNG, Selenium WebDriver, RestAssured, and Spring Boot. Equipped with tremendous technical knowledge and a zeal to deliver high-quality, scalable solutions, I am confident in my ability to contribute to any organization.
+I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in Software Engineering. My technical expertise includes programming in Java, Typescript, Python and using libraries and frameworks such as Spring Boot, React, NodeJS, FastAPI, Django. Equipped with tremendous technical knowledge and a zeal to deliver high-quality, scalable solutions, I am confident in my ability to contribute to any organization.
 
 ---
 
 ### Skills Highlights:
 - **Languages & Tools:** Java, SQL, Python, HTML5, CSS3, JavaScript, R
-- **Frameworks & Libraries:** Spring, React, TestNG, Selenium, RestAssured
-- **Cloud & DevOps:** AWS
+- **Frameworks & Libraries:** Spring, React, TestNG, FastAPI, Django.
+- **Cloud & DevOps:** AWS, Jenkins, Azure devops, Github actions, Azure, ArgoCD
 
 ---
 
@@ -30,6 +30,10 @@ I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in Softwa
 ![TestNG](https://img.shields.io/badge/TestNG-FF5E00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+
+### Companies I have worked with:
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 
 ---
 
