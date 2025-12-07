@@ -33,6 +33,8 @@ I'm Aditya Vasisht, a Software Engineer with over 1 year of experience in Softwa
 
 ### Companies I have worked with:
 ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge)
+
 
 
 ---
